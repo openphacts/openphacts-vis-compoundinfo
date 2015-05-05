@@ -3,7 +3,7 @@
  * https://github.com/openphacts/openphacts-vis-compoundinfo
  *
  * Copyright (c) 2014 Openphacts
- * Licensed under the Apache 2 license.
+ * Licensed under the MIT license.
  */
 
 var buildDir = "build";
