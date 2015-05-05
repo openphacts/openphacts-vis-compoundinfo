@@ -16,3 +16,6 @@ Please submit all issues and pull requests to the [openphacts/openphacts-vis-com
 
 ## Support
 If you have any problem or suggestion please open an issue [here](https://github.com/openphacts/openphacts-vis-compoundinfo/issues).
+
+## License
+MIT. See licence.txt file.
