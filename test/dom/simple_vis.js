@@ -3,7 +3,7 @@
  * https://github.com/openphacts/openphacts-vis-compoundinfo
  *
  * Copyright (c) 2014 Openphacts
- * Licensed under the Apache 2 license.
+ * Licenced under the MIT licence.
  */
 
 // chai is an assertion library
