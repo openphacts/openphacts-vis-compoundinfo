@@ -1,7 +1,7 @@
 {
   "name": "openphacts-vis-compoundinfo",
   "description": "Displays the information available in the Open PHACTS Linked Data cache about a compound.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/openphacts/openphacts-vis-compoundinfo",
   "author": {
     "name": "Openphacts",
