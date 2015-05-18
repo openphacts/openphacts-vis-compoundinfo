@@ -1,7 +1,7 @@
 {
   "name": "openphacts-vis-compoundinfo",
   "description": "Displays the information available in the Open PHACTS Linked Data cache about a compound.",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "homepage": "https://github.com/openphacts/openphacts-vis-compoundinfo",
   "author": {
     "name": "Openphacts",
@@ -75,10 +75,14 @@
   },
   "sniper": {
     "js": [
-      "/build/compound.js", "https://code.jquery.com/jquery-1.11.1.min.js", "http://builds.handlebarsjs.com.s3.amazonaws.com/handlebars-v1.3.0.js",
+      "/build/compound.js",
+      "https://code.jquery.com/jquery-1.11.1.min.js",
+      "http://builds.handlebarsjs.com.s3.amazonaws.com/handlebars-v1.3.0.js",
       "/helpers.js"
     ],
-    "css": ["/biojs.openphacts.css"],
+    "css": [
+      "/biojs.openphacts.css"
+    ],
     "snippets": [
       "snippets"
     ],
